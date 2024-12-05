@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   chatapp:
-    image: 'grimleng/HW3-Nodejschatapp'
+    image: 'grimleng/hw3nodejschatapp'
     build:
       context: .
       dockerfile: Dockerfile
